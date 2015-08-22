@@ -1,7 +1,7 @@
 {
   "name": "workspace-js",
   "version": "0.0.0",
-  "description": "Workspace para projetos estaticos como javascript, css e js",
+  "description": "Workspace para projetos web estaticos",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
