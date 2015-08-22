@@ -9,6 +9,7 @@
   "author": "raynerweb",
   "license": "ISC",
   "dependencies": {
-    "gulp": "^3.9.0"
+    "gulp": "^3.9.0",
+    "gulp-chug": "^0.4.2"
   }
 }
