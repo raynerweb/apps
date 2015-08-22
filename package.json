@@ -1,0 +1,14 @@
+{
+  "name": "workspace-js",
+  "version": "0.0.0",
+  "description": "Workspace para projetos estaticos como javascript, css e js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "raynerweb",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^3.9.0"
+  }
+}
